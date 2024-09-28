@@ -1,6 +1,7 @@
 # Jawa Pride Airdrop
 
-![Jawa Pride Airdrop GIF](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/JWPA.gif)
+![JawaPride Airdrop GIF](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/JWPA.gif)
+
 
 Selamat datang di proyek Jawa Pride Airdrop!
 
