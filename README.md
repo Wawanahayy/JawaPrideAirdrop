@@ -1,3 +1,10 @@
+# JawaPride Airdrop
+
+![JawaPride Airdrop GIF](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/JWPA.gif)
+
+Selamat datang di proyek JawaPride Airdrop!
+
+
 # JawaPrideAirdrop JOIN MY CHANNEL <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="50" height="50">
 - [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
 - [WEBSITE](https://linktr.ee/Jawa_Pride_ID)
