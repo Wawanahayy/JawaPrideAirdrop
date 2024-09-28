@@ -1,7 +1,5 @@
 # WELCOME To Jawa Pride Airdrop
-![GIF Pertama](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif)
-
-![GIF Kedua](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif)
+![GIF Pertama](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif) ![GIF Kedua](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif)
 
 
 
